@@ -39,8 +39,7 @@ EMAIL_HOST_PASSWORD = 'your email password'
 EMAIL_RECEIVING_USER = 'youremail@gmail.com'
 ```
 
-## Drawbacks/LoopHoles
-- Anyone can be Admin.
+
 
 ## Feedback
 Any suggestion and feedback is welcome. You can email me
